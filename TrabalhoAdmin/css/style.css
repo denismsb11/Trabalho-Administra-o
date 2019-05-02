@@ -1,0 +1,16 @@
+h6 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.texto-area {
+    width: 400px;
+    height: 170px;
+}
+
+.proformasize {
+    font-size: 12px;
+}
+
+a { color: inherit; } 
